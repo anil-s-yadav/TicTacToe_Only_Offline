@@ -1,5 +1,5 @@
-# TicTacToe_Only_Offline
-This is a TictacToe offline Application you can play with your friend after installing into your Android device.
+# TicTacToe Offline
+This is a TicTacToe offline Application you can play with your friend after installing into your Android device.
 
 # FEATURES
 - Only Offline mode is Avalable.
